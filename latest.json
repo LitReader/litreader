@@ -1,8 +1,8 @@
 {
-  "updateOn": "no",
-  "version": "2.1.8",
-  "url": "https://www.tiktok.com/@litreader6/photo/7676015594335898898",
-  "notes": "TEST update — shows in the popup and the log",
-  "announceOn": "yes",
+  "updateOn": "yes",
+  "version": "2.1.7",
+  "url": "https://www.tiktok.com/@litreader6/photo/7676091138230603015",
+  "notes": "New sources and fixed some bugs along the way.",
+  "announceOn": "no",
   "announce": "Hello, everyone!"
 }
