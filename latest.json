@@ -1,8 +1,8 @@
 {
   "updateOn": "yes",
-  "version": "2.7.13",
-  "url": "https://github.com/LitReader/litreaders/releases/tag/2.7.13",
-  "notes": "Hello Guys! This is a major Update!.",
+  "version": "2.7.33",
+  "url": "https://github.com/LitReader/litreaders",
+  "notes": "Fixed All Sources.",
   "announceOn": "no",
   "announce": "Hello, everyone!"
 }
