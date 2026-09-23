@@ -3,6 +3,10 @@
   "version": "2.7.33",
   "url": "https://github.com/LitReader/litreaders",
   "notes": "Fixed All Sources.",
-  "announceOn": "no",
-  "announce": "Hello, everyone!"
+  "announceOn": "yes",
+  "announce": "Good day, everyone.
+
+Due to the possibility of copyright infringement, I don’t want to take any unnecessary risks. Therefore, I have decided to permanently make this project private. No further updates will be released for the time being.
+
+For those who already have LitReaders installed before the shutdown, you can continue using it normally. Thank you for your understanding and support."
 }
